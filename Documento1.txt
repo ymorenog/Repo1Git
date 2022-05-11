@@ -1,1 +1,2 @@
 primera linea documento1
+segunda linea2 documento1
